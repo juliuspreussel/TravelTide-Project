@@ -31,9 +31,9 @@ Dieses Projekt analysiert das Kundenverhalten auf der Online-Reisebuchungsplattf
 ## 🗂️ Projektdateien
 
 - [Tableau Dashboard](https://public.tableau.com/views/TravelTide_17473875889430/TravelTideProject?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- `docs/TravelTide_Report.pdf` – Ausführlicher Projektbericht
-- `docs/TravelTide_Onepager.pdf` – Kurz-Zusammenfassung auf einer Seite
-- `docs/TravelTide_RFM.twbx` – Tableau-Dashboard
+- `docs/TravelTide Julius Preussel Detailed Report.pdf` – Ausführlicher Projektbericht
+- `docs/TravelTide Julius Preussel Executive Summary.pdf` – Kurz-Zusammenfassung auf einer Seite
+- `docs/TravelTide Julius Preussel Data.csv` – Bearbeiteter SQL Datensatz
 
 
 ---
